@@ -21,7 +21,7 @@
 # Question 1 - Loops and Lists
 # You are given a list of numbers representing weekly sales in units.
 weekly_sales = [120, 85, 100, 90, 110, 95, 130]
-
+uaytuaytuyqwer
 sdfhsdfjshdf
 # Write a for loop that iterates through the list and prints whether each week's sales were above or below the average sales for the period.
 # Calculate and print the average sales.
