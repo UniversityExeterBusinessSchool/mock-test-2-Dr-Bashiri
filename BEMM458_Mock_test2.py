@@ -1,10 +1,10 @@
 #######################################################################################################################################################
 # 
-# Name:ggg2
+# Name:Mahdi Bashiri
 # SID:
 # Exam Date:
 # Module:
-# Github link for this assignment:  
+# Github link for this assignment: https://github.com/UniversityExeterBusinessSchool/mock-test-2-Dr-Bashiri 
 #
 #######################################################################################################################################################
 # Instruction 1. Read each question carefully and complete the scripts as instructed.
@@ -22,6 +22,7 @@
 # You are given a list of numbers representing weekly sales in units.
 weekly_sales = [120, 85, 100, 90, 110, 95, 130]
 
+sdfhsdfjshdf
 # Write a for loop that iterates through the list and prints whether each week's sales were above or below the average sales for the period.
 # Calculate and print the average sales.
 
